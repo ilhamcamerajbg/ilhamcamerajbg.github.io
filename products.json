@@ -1,0 +1,2296 @@
+[
+    {
+      "id": 1,
+      "name": "EPSON SB300",
+      "category": "Proyektor",
+      "image": "https://via.placeholder.com/600x400?text=EPSON+SB300",
+      "price": 150000,
+      "price6h": 100000,
+      "price12h": 125000,
+      "price24h": 150000,
+      "isNew": false,
+      "isPopular": true,
+      "specs": [
+        "Brightness: 3000 lumens",
+        "Resolution: XGA (1024 x 768)",
+        "Connectivity: HDMI, VGA",
+        "Portable dan ringan"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "EPSON SB300 + Screen",
+      "category": "Proyektor",
+      "image": "https://via.placeholder.com/600x400?text=EPSON+SB300+Screen",
+      "price": 200000,
+      "price6h": 150000,
+      "price12h": 175000,
+      "price24h": 200000,
+      "isNew": false,
+      "isPopular": true,
+      "specs": [
+        "Proyektor EPSON SB300",
+        "Layar proyektor standar",
+        "Brightness: 3000 lumens",
+        "Resolution: XGA (1024 x 768)"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "HUAWEI B628 / ORBIT MAX H1",
+      "category": "Modem",
+      "image": "https://via.placeholder.com/600x400?text=HUAWEI+B628",
+      "price": 75000,
+      "price6h": 45000,
+      "price12h": 60000,
+      "price24h": 75000,
+      "isNew": false,
+      "isPopular": true,
+      "specs": [
+        "4G LTE Advanced",
+        "Kecepatan download hingga 300Mbps",
+        "Dual-band WiFi",
+        "Termasuk kartu perdana"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "CANON EF to EOS M",
+      "category": "Adapter Lensa",
+      "image": "https://via.placeholder.com/600x400?text=CANON+EF+to+EOS+M",
+      "price": 40000,
+      "price6h": 25000,
+      "price12h": 35000,
+      "price24h": 40000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Kompatibel dengan lensa Canon EF",
+        "Untuk kamera Canon EOS M series",
+        "Autofocus support",
+        "Image stabilization support"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "SIGMA MC-11 EF to E-MOUNT",
+      "category": "Adapter Lensa",
+      "image": "https://via.placeholder.com/600x400?text=SIGMA+MC-11",
+      "price": 100000,
+      "price6h": 75000,
+      "price12h": 100000,
+      "price24h": null,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Kompatibel dengan lensa Canon EF",
+        "Untuk kamera Sony E-mount",
+        "Autofocus support",
+        "Electronic aperture control"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "LP-E17",
+      "category": "Baterai",
+      "image": "https://via.placeholder.com/600x400?text=LP-E17",
+      "price": 35000,
+      "price6h": null,
+      "price12h": null,
+      "price24h": 35000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Untuk Canon EOS 750D/760D/800D",
+        "Kapasitas: 1040mAh",
+        "Tegangan: 7.2V",
+        "Original Canon"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "FUJIFILM W16",
+      "category": "Baterai",
+      "image": "https://via.placeholder.com/600x400?text=FUJIFILM+W16",
+      "price": 35000,
+      "price6h": null,
+      "price12h": null,
+      "price24h": 35000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Untuk Fujifilm X-T1/X-T2",
+        "Kapasitas: 1260mAh",
+        "Tegangan: 7.2V",
+        "Original Fujifilm"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "NP-FW50",
+      "category": "Baterai",
+      "image": "https://via.placeholder.com/600x400?text=NP-FW50",
+      "price": 35000,
+      "price6h": null,
+      "price12h": null,
+      "price24h": 35000,
+      "isNew": false,
+      "isPopular": true,
+      "specs": [
+        "Untuk Sony Alpha series",
+        "Kapasitas: 1020mAh",
+        "Tegangan: 7.2V",
+        "Original Sony"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "DUMMY SONY NP-FW50",
+      "category": "Baterai",
+      "image": "https://via.placeholder.com/600x400?text=DUMMY+SONY+NP-FW50",
+      "price": 45000,
+      "price6h": null,
+      "price12h": null,
+      "price24h": 45000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Untuk Sony Alpha series",
+        "Power dari adaptor external",
+        "Tanpa batas waktu penggunaan",
+        "Untuk penggunaan studio"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "DUMMY LP-E6",
+      "category": "Baterai",
+      "image": "https://via.placeholder.com/600x400?text=DUMMY+LP-E6",
+      "price": 45000,
+      "price6h": null,
+      "price12h": null,
+      "price24h": 45000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Untuk Canon 5D/6D/7D/80D series",
+        "Power dari adaptor external",
+        "Tanpa batas waktu penggunaan",
+        "Untuk penggunaan studio"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Vention HDMI 3m",
+      "category": "Kabel",
+      "image": "https://via.placeholder.com/600x400?text=Vention+HDMI+3m",
+      "price": 65000,
+      "price6h": null,
+      "price12h": null,
+      "price24h": 65000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Panjang: 3 meter",
+        "HDMI 2.0",
+        "Support 4K@60Hz",
+        "Gold plated connector"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Vention HDMI 10m",
+      "category": "Kabel",
+      "image": "https://via.placeholder.com/600x400?text=Vention+HDMI+10m",
+      "price": 65000,
+      "price6h": null,
+      "price12h": null,
+      "price24h": 65000,
+      "isNew": false,
+      "isPopular": true,
+      "specs": [
+        "Panjang: 10 meter",
+        "HDMI 2.0",
+        "Support 4K@60Hz",
+        "Gold plated connector"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Vention HDMI 15m",
+      "category": "Kabel",
+      "image": "https://via.placeholder.com/600x400?text=Vention+HDMI+15m",
+      "price": 65000,
+      "price6h": null,
+      "price12h": null,
+      "price24h": 65000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Panjang: 15 meter",
+        "HDMI 2.0",
+        "Support 4K@60Hz",
+        "Gold plated connector"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Vention HDMI 20m",
+      "category": "Kabel",
+      "image": "https://via.placeholder.com/600x400?text=Vention+HDMI+20m",
+      "price": 65000,
+      "price6h": null,
+      "price12h": null,
+      "price24h": 65000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Panjang: 20 meter",
+        "HDMI 2.0",
+        "Support 4K@60Hz",
+        "Gold plated connector"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "SanDisk Ultra 16GB",
+      "category": "Memory Card",
+      "image": "https://via.placeholder.com/600x400?text=SanDisk+Ultra+16GB",
+      "price": 15000,
+      "price6h": null,
+      "price12h": null,
+      "price24h": 15000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Kapasitas: 16GB",
+        "Kecepatan: 80 MB/s",
+        "Class 10",
+        "Untuk foto dan video HD"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "SanDisk Ultra 32GB",
+      "category": "Memory Card",
+      "image": "https://via.placeholder.com/600x400?text=SanDisk+Ultra+32GB",
+      "price": 25000,
+      "price6h": null,
+      "price12h": null,
+      "price24h": 25000,
+      "isNew": false,
+      "isPopular": true,
+      "specs": [
+        "Kapasitas: 32GB",
+        "Kecepatan: 120 MB/s",
+        "Class 10, UHS-I",
+        "Untuk foto dan video Full HD"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "SanDisk Ultra 64GB",
+      "category": "Memory Card",
+      "image": "https://via.placeholder.com/600x400?text=SanDisk+Ultra+64GB",
+      "price": 35000,
+      "price6h": null,
+      "price12h": null,
+      "price24h": 35000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Kapasitas: 64GB",
+        "Kecepatan: 100 MB/s",
+        "Class 10, UHS-I",
+        "Untuk foto dan video 4K"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "TAKARA",
+      "category": "Tripod",
+      "image": "https://via.placeholder.com/600x400?text=TAKARA",
+      "price": 30000,
+      "price6h": 20000,
+      "price12h": 25000,
+      "price24h": 30000,
+      "isNew": false,
+      "isPopular": true,
+      "specs": [
+        "Tinggi maksimal: 150cm",
+        "Material: Aluminium",
+        "Beban maksimal: 3kg",
+        "Dilengkapi tas"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "VELBON",
+      "category": "Tripod",
+      "image": "https://via.placeholder.com/600x400?text=VELBON",
+      "price": 45000,
+      "price6h": 35000,
+      "price12h": 40000,
+      "price24h": 45000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Tinggi maksimal: 165cm",
+        "Material: Aluminium",
+        "Beban maksimal: 4kg",
+        "Fluid head untuk video"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "SHOOTING",
+      "category": "Tripod",
+      "image": "https://via.placeholder.com/600x400?text=SHOOTING",
+      "price": 55000,
+      "price6h": 35000,
+      "price12h": 45000,
+      "price24h": 55000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Tinggi maksimal: 175cm",
+        "Material: Carbon Fiber",
+        "Beban maksimal: 6kg",
+        "Professional fluid head"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "SONY HANDYCAM PJ380E FULL HD",
+      "category": "Camcorder",
+      "image": "https://via.placeholder.com/600x400?text=SONY+HANDYCAM+PJ380E",
+      "price": 85000,
+      "price6h": 55000,
+      "price12h": 70000,
+      "price24h": 85000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Full HD recording",
+        "8.9MP sensor",
+        "30x optical zoom",
+        "Built-in projector"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "SONY MC2500",
+      "category": "Camcorder",
+      "image": "https://via.placeholder.com/600x400?text=SONY+MC2500",
+      "price": 175000,
+      "price6h": 125000,
+      "price12h": 150000,
+      "price24h": 175000,
+      "isNew": false,
+      "isPopular": true,
+      "specs": [
+        "Full HD recording",
+        "Professional XDCAM",
+        "12x optical zoom",
+        "XLR audio inputs"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "SONY MC2500 + TRIPOD",
+      "category": "Camcorder",
+      "image": "https://via.placeholder.com/600x400?text=SONY+MC2500+TRIPOD",
+      "price": 220000,
+      "price6h": 175000,
+      "price12h": 195000,
+      "price24h": 220000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Full HD recording",
+        "Professional XDCAM",
+        "12x optical zoom",
+        "XLR audio inputs",
+        "Termasuk tripod profesional"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "SONY NX100",
+      "category": "Camcorder",
+      "image": "https://via.placeholder.com/600x400?text=SONY+NX100",
+      "price": 300000,
+      "price6h": 200000,
+      "price12h": 250000,
+      "price24h": 300000,
+      "isNew": false,
+      "isPopular": true,
+      "specs": [
+        "Full HD recording",
+        "20x optical zoom",
+        "1.0-type Exmor R CMOS sensor",
+        "XLR audio inputs",
+        "Professional XAVC format"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "SONY NX100 + TRIPOD",
+      "category": "Camcorder",
+      "image": "https://via.placeholder.com/600x400?text=SONY+NX100+TRIPOD",
+      "price": 340000,
+      "price6h": 240000,
+      "price12h": 290000,
+      "price24h": 340000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Full HD recording",
+        "20x optical zoom",
+        "1.0-type Exmor R CMOS sensor",
+        "XLR audio inputs",
+        "Professional XAVC format",
+        "Termasuk tripod profesional fluid head"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "FLASH TT685",
+      "category": "Lighting",
+      "image": "https://via.placeholder.com/600x400?text=FLASH+TT685",
+      "price": 50000,
+      "price6h": 40000,
+      "price12h": 50000,
+      "price24h": null,
+      "isNew": false,
+      "isPopular": true,
+      "specs": [
+        "Tersedia untuk Sony/Canon",
+        "Guide Number: 60m",
+        "TTL/Manual/Multi mode",
+        "HSS support (hingga 1/8000s)"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "RINGLIGHT 18 INCH",
+      "category": "Lighting",
+      "image": "https://via.placeholder.com/600x400?text=RINGLIGHT+18+INCH",
+      "price": 50000,
+      "price6h": 30000,
+      "price12h": 40000,
+      "price24h": 50000,
+      "isNew": false,
+      "isPopular": true,
+      "specs": [
+        "Diameter: 18 inch",
+        "Bi-color (3200K-5600K)",
+        "Dimmable",
+        "Smartphone holder"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "GODOX P260C",
+      "category": "Lighting",
+      "image": "https://via.placeholder.com/600x400?text=GODOX+P260C",
+      "price": 65000,
+      "price6h": 40000,
+      "price12h": 55000,
+      "price24h": 65000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Parabolic softbox",
+        "Diameter: 260cm",
+        "Bowens mount",
+        "Untuk portrait/fashion"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "RINGLIGHT 18\" + STAND",
+      "category": "Lighting",
+      "image": "https://via.placeholder.com/600x400?text=RINGLIGHT+18+STAND",
+      "price": 70000,
+      "price6h": 40000,
+      "price12h": 55000,
+      "price24h": 70000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Diameter: 18 inch",
+        "Bi-color (3200K-5600K)",
+        "Dimmable",
+        "Termasuk light stand 2m"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "STARLIGHT AL-120X + STAND",
+      "category": "Lighting",
+      "image": "https://via.placeholder.com/600x400?text=STARLIGHT+AL-120X",
+      "price": 85000,
+      "price6h": 60000,
+      "price12h": 70000,
+      "price24h": 85000,
+      "isNew": true,
+      "isPopular": false,
+      "specs": [
+        "LED panel",
+        "Bi-color (3200K-5600K)",
+        "120 LED bulbs",
+        "Termasuk light stand 2m"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "PAKET LIGHTING NICEFOTO",
+      "category": "Lighting",
+      "image": "https://via.placeholder.com/600x400?text=PAKET+LIGHTING+NICEFOTO",
+      "price": 175000,
+      "price6h": 130000,
+      "price12h": 150000,
+      "price24h": 175000,
+      "isNew": false,
+      "isPopular": true,
+      "specs": [
+        "2x Strobe light",
+        "2x Light stand",
+        "2x Softbox 60x90cm",
+        "Trigger wireless",
+        "Ideal untuk studio mini"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "FLASH TT600 UNIVERSAL",
+      "category": "Lighting",
+      "image": "https://via.placeholder.com/600x400?text=FLASH+TT600",
+      "price": 50000,
+      "price6h": 40000,
+      "price12h": 50000,
+      "price24h": null,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Universal hot shoe",
+        "Guide Number: 60m",
+        "Manual mode",
+        "Built-in receiver"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "GODOX LED 308C II",
+      "category": "Lighting",
+      "image": "https://via.placeholder.com/600x400?text=GODOX+LED+308C+II",
+      "price": 85000,
+      "price6h": 60000,
+      "price12h": 70000,
+      "price24h": 85000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "308 LED bulbs",
+        "Bi-color (3200K-5600K)",
+        "Dimmable",
+        "Battery or AC powered"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "YONGNUO LED YN300 III",
+      "category": "Lighting",
+      "image": "https://via.placeholder.com/600x400?text=YONGNUO+LED+YN300+III",
+      "price": 85000,
+      "price6h": 60000,
+      "price12h": 70000,
+      "price24h": 85000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "300 LED bulbs",
+        "Adjustable color temperature",
+        "Dimmable",
+        "Smartphone app control"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "GODOX LED 308C II + STAND",
+      "category": "Lighting",
+      "image": "https://via.placeholder.com/600x400?text=GODOX+LED+308C+II+STAND",
+      "price": 95000,
+      "price6h": 70000,
+      "price12h": 80000,
+      "price24h": 95000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "308 LED bulbs",
+        "Bi-color (3200K-5600K)",
+        "Dimmable",
+        "Termasuk light stand 2m"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "YONGNUO LED YN300 III + STAND",
+      "category": "Lighting",
+      "image": "https://via.placeholder.com/600x400?text=YONGNUO+LED+YN300+III+STAND",
+      "price": 95000,
+      "price6h": 70000,
+      "price12h": 80000,
+      "price24h": 95000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "300 LED bulbs",
+        "Adjustable color temperature",
+        "Dimmable",
+        "Termasuk light stand 2m"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "BAOFENG UV 82",
+      "category": "Audio Support",
+      "image": "https://via.placeholder.com/600x400?text=BAOFENG+UV+82",
+      "price": 20000,
+      "price6h": 12000,
+      "price12h": 15000,
+      "price24h": 20000,
+      "isNew": false,
+      "isPopular": true,
+      "specs": [
+        "Dual band (VHF/UHF)",
+        "Jangkauan 3-5km",
+        "Battery Li-ion",
+        "Ideal untuk koordinasi tim"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "SONY PX-240",
+      "category": "Audio Support",
+      "image": "https://via.placeholder.com/600x400?text=SONY+PX-240",
+      "price": 35000,
+      "price6h": 30000,
+      "price12h": 35000,
+      "price24h": null,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Digital voice recorder",
+        "4GB internal memory",
+        "USB connection",
+        "Format MP3/LPCM"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "BOYA BY-MM1",
+      "category": "Audio Support",
+      "image": "https://via.placeholder.com/600x400?text=BOYA+BY-MM1",
+      "price": 45000,
+      "price6h": 25000,
+      "price12h": 35000,
+      "price24h": 45000,
+      "isNew": false,
+      "isPopular": true,
+      "specs": [
+        "Directional microphone",
+        "Untuk DSLR/Smartphone",
+        "Cardioid pattern",
+        "Low noise"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "SONY ECM-XYST1M",
+      "category": "Audio Support",
+      "image": "https://via.placeholder.com/600x400?text=SONY+ECM-XYST1M",
+      "price": 50000,
+      "price6h": 30000,
+      "price12h": 40000,
+      "price24h": 50000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Stereo microphone",
+        "Untuk Sony Multi-Interface Shoe",
+        "Directional pickup",
+        "Noise reduction"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "ZOOM H1N RECORDER",
+      "category": "Audio Support",
+      "image": "https://via.placeholder.com/600x400?text=ZOOM+H1N",
+      "price": 50000,
+      "price6h": null,
+      "price12h": 40000,
+      "price24h": 50000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Portable audio recorder",
+        "X/Y stereo microphones",
+        "96kHz/24-bit recording",
+        "microSD card recording"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "TASCAM DR 40",
+      "category": "Audio Support",
+      "image": "https://via.placeholder.com/600x400?text=TASCAM+DR+40",
+      "price": 65000,
+      "price6h": 40000,
+      "price12h": 50000,
+      "price24h": 65000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "4-track recorder",
+        "XLR/TRS inputs",
+        "Adjustable microphones",
+        "96kHz/24-bit recording"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "BOYA BY-WM4 PRO",
+      "category": "Audio Support",
+      "image": "https://via.placeholder.com/600x400?text=BOYA+BY-WM4+PRO",
+      "price": 65000,
+      "price6h": 40000,
+      "price12h": 55000,
+      "price24h": 65000,
+      "isNew": false,
+      "isPopular": true,
+      "specs": [
+        "Wireless lavalier microphone",
+        "Range up to 60m",
+        "For DSLR/Smartphone",
+        "Low noise, high quality"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "BOYA WM8PRO WIRELESS",
+      "category": "Audio Support",
+      "image": "https://via.placeholder.com/600x400?text=BOYA+WM8PRO",
+      "price": 75000,
+      "price6h": 50000,
+      "price12h": 65000,
+      "price24h": 75000,
+      "isNew": true,
+      "isPopular": false,
+      "specs": [
+        "Dual channel wireless system",
+        "Range up to 100m",
+        "2 transmitters + 1 receiver",
+        "For interviews/dual audio sources"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "SARAMONIC B2 WIRELESS",
+      "category": "Audio Support",
+      "image": "https://via.placeholder.com/600x400?text=SARAMONIC+B2",
+      "price": 75000,
+      "price6h": 50000,
+      "price12h": 65000,
+      "price24h": 75000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Wireless lavalier microphone",
+        "Range up to 70m",
+        "Dual transmitter system",
+        "For professional interviews"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "AVMATRIX PVS0403U",
+      "category": "Video Support",
+      "image": "https://via.placeholder.com/600x400?text=AVMATRIX+PVS0403U",
+      "price": null,
+      "price6h": 200000,
+      "price12h": 300000,
+      "price24h": null,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Video Switcher",
+        "4-Channel",
+        "Professional live switching"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "HDMI EXTENDER",
+      "category": "Video Support",
+      "image": "https://via.placeholder.com/600x400?text=HDMI+EXTENDER",
+      "price": 55000,
+      "price6h": 35000,
+      "price12h": 45000,
+      "price24h": 55000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Basic HDMI extension",
+        "Standard range"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "HDMI EXTENDER (Include LAN 50m)",
+      "category": "Video Support",
+      "image": "https://via.placeholder.com/600x400?text=HDMI+EXTENDER+LAN",
+      "price": 75000,
+      "price6h": 50000,
+      "price12h": 60000,
+      "price24h": 75000,
+      "isNew": false,
+      "isPopular": true,
+      "specs": [
+        "Extended HDMI solution",
+        "Includes 50m LAN cable",
+        "Long-range transmission"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "VIDEO CAPTURE WITH LOOP",
+      "category": "Video Support",
+      "image": "https://via.placeholder.com/600x400?text=VIDEO+CAPTURE",
+      "price": 40000,
+      "price6h": 20000,
+      "price12h": 30000,
+      "price24h": 40000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Video capture device",
+        "Loop-through capability",
+        "For streaming/recording"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "AVMATRIX SDI TO HDMI",
+      "category": "Video Support",
+      "image": "https://via.placeholder.com/600x400?text=AVMATRIX+SDI+TO+HDMI",
+      "price": 50000,
+      "price6h": 25000,
+      "price12h": 35000,
+      "price24h": 50000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Professional converter",
+        "SDI to HDMI conversion",
+        "Maintains signal quality"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "EZCAP HD60 GAME RAW",
+      "category": "Video Support",
+      "image": "https://via.placeholder.com/600x400?text=EZCAP+HD60",
+      "price": 60000,
+      "price6h": 40000,
+      "price12h": 50000,
+      "price24h": 60000,
+      "isNew": false,
+      "isPopular": true,
+      "specs": [
+        "Game capture card",
+        "Records in RAW format",
+        "High quality streaming"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "HDMI WIRELESS CB8833",
+      "category": "Video Support",
+      "image": "https://via.placeholder.com/600x400?text=HDMI+WIRELESS",
+      "price": 75000,
+      "price6h": 50000,
+      "price12h": 60000,
+      "price24h": 75000,
+      "isNew": false,
+      "isPopular": false,
+      "specs": [
+        "Wireless HDMI transmitter/receiver",
+        "Low latency transmission",
+        "For presentations/events"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "ROLAND V-02HD",
+      "category": "Video Support",
+      "image": "https://via.placeholder.com/600x400?text=ROLAND+V-02HD",
+      "price": 100000,
+      "price6h": 60000,
+      "price12h": 75000,
+      "price24h": 100000,
+      "isNew": false,
+      "isPopular": true,
+      "specs": [
+        "Video mixer",
+        "2-Input professional mixer",
+        "HDMI connectivity",
+        "For live production"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "BLACKMAGIC ATEM MINI",
+      "category": "Video Support",
+      "image": "https://via.placeholder.com/600x400?text=BLACKMAGIC+ATEM+MINI",
+      "price": 135000,
+      "price6h": 90000,
+      "price12h": 110000,
+      "price24h": 135000,
+      "isNew": false,
+      "isPopular": true,
+      "specs": [
+        "Professional video switcher",
+        "4-Input live production",
+        "HDMI inputs",
+        "Streaming capabilities"
+      ]
+    },
+    
+       {
+          "id": 44,
+          "name": "BOYA WM8PRO WIRELESS",
+          "category": "Audio Support",
+          "image": "https://via.placeholder.com/600x400?text=BOYA+WM8PRO",
+          "price": 75000,
+          "price6h": 50000,
+          "price12h": 65000,
+          "price24h": 75000,
+          "isNew": true,
+          "isPopular": false,
+          "specs": [
+            "Dual channel wireless system",
+            "Range up to 100m",
+            "2 transmitters + 1 receiver",
+            "For interviews/dual audio sources"
+          ]
+        },
+        {
+          "id": 45,
+          "name": "SARAMONIC B2 WIRELESS",
+          "category": "Audio Support",
+          "image": "https://via.placeholder.com/600x400?text=SARAMONIC+B2",
+          "price": 75000,
+          "price6h": 50000,
+          "price12h": 65000,
+          "price24h": 75000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Wireless lavalier microphone",
+            "Range up to 70m",
+            "Dual transmitter system",
+            "For professional interviews"
+          ]
+        },
+        {
+          "id": 46,
+          "name": "AVMATRIX PVS0403U",
+          "category": "Video Support",
+          "image": "https://via.placeholder.com/600x400?text=AVMATRIX+PVS0403U",
+          "price": null,
+          "price6h": 200000,
+          "price12h": 300000,
+          "price24h": null,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Video Switcher",
+            "4-Channel",
+            "Professional live switching"
+          ]
+        },
+        {
+          "id": 47,
+          "name": "HDMI EXTENDER",
+          "category": "Video Support",
+          "image": "https://via.placeholder.com/600x400?text=HDMI+EXTENDER",
+          "price": 55000,
+          "price6h": 35000,
+          "price12h": 45000,
+          "price24h": 55000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Basic HDMI extension",
+            "Standard range"
+          ]
+        },
+        {
+          "id": 48,
+          "name": "HDMI EXTENDER (Include LAN 50m)",
+          "category": "Video Support",
+          "image": "https://via.placeholder.com/600x400?text=HDMI+EXTENDER+LAN",
+          "price": 75000,
+          "price6h": 50000,
+          "price12h": 60000,
+          "price24h": 75000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Extended HDMI solution",
+            "Includes 50m LAN cable",
+            "Long-range transmission"
+          ]
+        },
+        {
+          "id": 49,
+          "name": "VIDEO CAPTURE WITH LOOP",
+          "category": "Video Support",
+          "image": "https://via.placeholder.com/600x400?text=VIDEO+CAPTURE",
+          "price": 40000,
+          "price6h": 20000,
+          "price12h": 30000,
+          "price24h": 40000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Video capture device",
+            "Loop-through capability",
+            "For streaming/recording"
+          ]
+        },
+        {
+          "id": 50,
+          "name": "AVMATRIX SDI TO HDMI",
+          "category": "Video Support",
+          "image": "https://via.placeholder.com/600x400?text=AVMATRIX+SDI+TO+HDMI",
+          "price": 50000,
+          "price6h": 25000,
+          "price12h": 35000,
+          "price24h": 50000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Professional converter",
+            "SDI to HDMI conversion",
+            "Maintains signal quality"
+          ]
+        },
+        {
+          "id": 51,
+          "name": "EZCAP HD60 GAME RAW",
+          "category": "Video Support",
+          "image": "https://via.placeholder.com/600x400?text=EZCAP+HD60",
+          "price": 60000,
+          "price6h": 40000,
+          "price12h": 50000,
+          "price24h": 60000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Game capture card",
+            "Records in RAW format",
+            "High quality streaming"
+          ]
+        },
+        {
+          "id": 52,
+          "name": "HDMI WIRELESS CB8833",
+          "category": "Video Support",
+          "image": "https://via.placeholder.com/600x400?text=HDMI+WIRELESS",
+          "price": 75000,
+          "price6h": 50000,
+          "price12h": 60000,
+          "price24h": 75000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Wireless HDMI transmitter/receiver",
+            "Low latency transmission",
+            "For presentations/events"
+          ]
+        },
+        {
+          "id": 53,
+          "name": "ROLAND V-02HD",
+          "category": "Video Support",
+          "image": "https://via.placeholder.com/600x400?text=ROLAND+V-02HD",
+          "price": 100000,
+          "price6h": 60000,
+          "price12h": 75000,
+          "price24h": 100000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Video mixer",
+            "2-Input professional mixer",
+            "HDMI connectivity",
+            "For live production"
+          ]
+        },
+        {
+          "id": 54,
+          "name": "BLACKMAGIC ATEM MINI",
+          "category": "Video Support",
+          "image": "https://via.placeholder.com/600x400?text=BLACKMAGIC+ATEM+MINI",
+          "price": 135000,
+          "price6h": 90000,
+          "price12h": 110000,
+          "price24h": 135000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Professional video switcher",
+            "4-Input live production",
+            "HDMI inputs",
+            "Streaming capabilities"
+          ]
+        },
+        {
+          "id": 55,
+          "name": "HOLLYLAND MARS 300 PRO",
+          "category": "Video Support",
+          "image": "https://via.placeholder.com/600x400?text=HOLLYLAND+MARS+300",
+          "price": null,
+          "price6h": 100000,
+          "price12h": 150000,
+          "price24h": null,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Wireless video transmission",
+            "HD quality",
+            "Long range",
+            "Includes discount for 2 sets"
+          ]
+        },
+        {
+          "id": 56,
+          "name": "HOLLYLAND MARS 400S PRO",
+          "category": "Video Support",
+          "image": "https://via.placeholder.com/600x400?text=HOLLYLAND+MARS+400S",
+          "price": null,
+          "price6h": 150000,
+          "price12h": 200000,
+          "price24h": null,
+          "isNew": true,
+          "isPopular": false,
+          "specs": [
+            "4K wireless video transmission",
+            "Professional grade",
+            "Low latency",
+            "For high-end productions"
+          ]
+        },
+        {
+          "id": 57,
+          "name": "GOPRO HERO+",
+          "category": "Action Camera",
+          "image": "https://via.placeholder.com/600x400?text=GOPRO+HERO+",
+          "price": 75000,
+          "price6h": 50000,
+          "price12h": 60000,
+          "price24h": 75000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Standard GoPro model",
+            "Includes housing",
+            "Includes standard mounts"
+          ]
+        },
+        {
+          "id": 58,
+          "name": "GOPRO HERO 4",
+          "category": "Action Camera",
+          "image": "https://via.placeholder.com/600x400?text=GOPRO+HERO+4",
+          "price": 75000,
+          "price6h": 50000,
+          "price12h": 60000,
+          "price24h": 75000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "GoPro Hero 4 model",
+            "Includes housing",
+            "Includes standard mounts",
+            "4K capable"
+          ]
+        },
+        {
+          "id": 59,
+          "name": "GOPRO HERO 9",
+          "category": "Action Camera",
+          "image": "https://via.placeholder.com/600x400?text=GOPRO+HERO+9",
+          "price": 150000,
+          "price6h": 100000,
+          "price12h": 125000,
+          "price24h": 150000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Advanced GoPro model",
+            "Includes housing",
+            "Includes standard mounts",
+            "Includes extra battery",
+            "5K capable"
+          ]
+        },
+        {
+          "id": 60,
+          "name": "RICOH THETA 360",
+          "category": "Action Camera",
+          "image": "https://via.placeholder.com/600x400?text=RICOH+THETA+360",
+          "price": 125000,
+          "price6h": 80000,
+          "price12h": 100000,
+          "price24h": 125000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "360-degree camera",
+            "Includes mini tripod",
+            "Includes USB cable",
+            "For immersive content"
+          ]
+        },
+        {
+          "id": 61,
+          "name": "INSTA 360 R",
+          "category": "Action Camera",
+          "image": "https://via.placeholder.com/600x400?text=INSTA+360+R",
+          "price": 150000,
+          "price6h": 100000,
+          "price12h": 125000,
+          "price24h": 150000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Modular 360 camera",
+            "Includes 360° stick",
+            "Includes housing",
+            "For creative perspectives"
+          ]
+        },
+        {
+          "id": 62,
+          "name": "INSTA 360 R TWIN",
+          "category": "Action Camera",
+          "image": "https://via.placeholder.com/600x400?text=INSTA+360+R+TWIN",
+          "price": 175000,
+          "price6h": 125000,
+          "price12h": 150000,
+          "price24h": 175000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Dual lens 360 camera",
+            "Includes 360° stick",
+            "Includes dual lens case",
+            "For professional 360 content"
+          ]
+        },
+        {
+          "id": 63,
+          "name": "ZHIYUN CRANE PLUS",
+          "category": "Gimbal",
+          "image": "https://via.placeholder.com/600x400?text=ZHIYUN+CRANE+PLUS",
+          "price": 150000,
+          "price6h": 110000,
+          "price12h": 125000,
+          "price24h": 150000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Max load: 2.5kg",
+            "Compatible with DSLR/Mirrorless",
+            "3-axis stabilization",
+            "Follow focus support"
+          ]
+        },
+        {
+          "id": 64,
+          "name": "DJI RONIN-S",
+          "category": "Gimbal",
+          "image": "https://via.placeholder.com/600x400?text=DJI+RONIN-S",
+          "price": 165000,
+          "price6h": 125000,
+          "price12h": 140000,
+          "price24h": 165000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Max load: 3.6kg",
+            "Compatible with DSLR/Mirrorless",
+            "Professional stabilization",
+            "ActiveTrack technology"
+          ]
+        },
+        {
+          "id": 65,
+          "name": "MOZA AIRCROSS 2",
+          "category": "Gimbal",
+          "image": "https://via.placeholder.com/600x400?text=MOZA+AIRCROSS+2",
+          "price": 165000,
+          "price6h": 125000,
+          "price12h": 140000,
+          "price24h": 165000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Max load: 3.2kg",
+            "Compatible with Mirrorless/DSLR",
+            "Time-lapse mode",
+            "Object tracking"
+          ]
+        },
+        {
+          "id": 66,
+          "name": "BRICA B-STEADY PRO 2022",
+          "category": "Gimbal",
+          "image": "https://via.placeholder.com/600x400?text=BRICA+B-STEADY+PRO",
+          "price": 75000,
+          "price6h": 40000,
+          "price12h": 50000,
+          "price24h": 75000,
+          "isNew": true,
+          "isPopular": false,
+          "specs": [
+            "Max load: 1.2kg",
+            "For Action Cam/Smartphone",
+            "Compact design",
+            "Basic stabilization"
+          ]
+        },
+        {
+          "id": 67,
+          "name": "DJI OSMO 4 MOBILE",
+          "category": "Gimbal",
+          "image": "https://via.placeholder.com/600x400?text=DJI+OSMO+4+MOBILE",
+          "price": 75000,
+          "price6h": 40000,
+          "price12h": 50000,
+          "price24h": 75000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Max load: 300g",
+            "For smartphones",
+            "ActiveTrack 3.0",
+            "Gesture control"
+          ]
+        },
+        {
+          "id": 68,
+          "name": "ZHIYUN M2",
+          "category": "Gimbal",
+          "image": "https://via.placeholder.com/600x400?text=ZHIYUN+M2",
+          "price": 125000,
+          "price6h": 80000,
+          "price12h": 100000,
+          "price24h": 125000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Max load: 1.2kg",
+            "For Action Cam/Smartphone",
+            "3-axis stabilization",
+            "Multiple shooting modes"
+          ]
+        },
+        {
+          "id": 69,
+          "name": "FEIYU G6 MAX",
+          "category": "Gimbal",
+          "image": "https://via.placeholder.com/600x400?text=FEIYU+G6+MAX",
+          "price": 130000,
+          "price6h": 95000,
+          "price12h": 105000,
+          "price24h": 130000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Max load: 500g",
+            "For Action Cameras",
+            "Touch screen control",
+            "Multiple follow modes"
+          ]
+        },
+        {
+          "id": 70,
+          "name": "7ARTISANS 35mm F1.2",
+          "category": "Lensa Sony",
+          "image": "https://via.placeholder.com/600x400?text=7ARTISANS+35mm",
+          "price": 50000,
+          "price6h": 30000,
+          "price12h": 40000,
+          "price24h": 50000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Aperture: f/1.2",
+            "Manual focus",
+            "Sony E-mount",
+            "Compact prime lens"
+          ]
+        },
+        {
+          "id": 71,
+          "name": "Sony E 35mm F1.8 OSS",
+          "category": "Lensa Sony",
+          "image": "https://via.placeholder.com/600x400?text=SONY+35mm+F1.8",
+          "price": 65000,
+          "price6h": 40000,
+          "price12h": 50000,
+          "price24h": 65000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Aperture: f/1.8",
+            "Optical SteadyShot",
+            "Autofocus",
+            "Compact prime lens"
+          ]
+        },
+        {
+          "id": 72,
+          "name": "Sony FE 28-70mm F3.5-5.6",
+          "category": "Lensa Sony",
+          "image": "https://via.placeholder.com/600x400?text=SONY+28-70mm",
+          "price": 65000,
+          "price6h": 40000,
+          "price12h": 50000,
+          "price24h": 65000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Zoom range: 28-70mm",
+            "Aperture: f/3.5-5.6",
+            "Autofocus",
+            "Kit lens for full-frame"
+          ]
+        },
+        {
+          "id": 73,
+          "name": "Sony E 50mm F1.8 OSS",
+          "category": "Lensa Sony",
+          "image": "https://via.placeholder.com/600x400?text=SONY+50mm+F1.8",
+          "price": 70000,
+          "price6h": 40000,
+          "price12h": 55000,
+          "price24h": 70000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Aperture: f/1.8",
+            "Optical SteadyShot",
+            "Autofocus",
+            "Portrait prime lens"
+          ]
+        },
+        {
+          "id": 74,
+          "name": "Sony FE 50mm F1.8",
+          "category": "Lensa Sony",
+          "image": "https://via.placeholder.com/600x400?text=SONY+FE+50mm",
+          "price": 70000,
+          "price6h": 40000,
+          "price12h": 55000,
+          "price24h": 70000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Aperture: f/1.8",
+            "Full-frame compatible",
+            "Autofocus",
+            "Compact prime lens"
+          ]
+        },
+        {
+          "id": 75,
+          "name": "Tamron 24mm F2.8 FE",
+          "category": "Lensa Sony",
+          "image": "https://via.placeholder.com/600x400?text=TAMRON+24mm",
+          "price": 75000,
+          "price6h": 50000,
+          "price12h": 60000,
+          "price24h": 75000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Aperture: f/2.8",
+            "Di III series",
+            "Autofocus",
+            "Wide-angle prime"
+          ]
+        },
+        {
+          "id": 76,
+          "name": "Tamron 18-200mm F3.5-6.3",
+          "category": "Lensa Sony",
+          "image": "https://via.placeholder.com/600x400?text=TAMRON+18-200mm",
+          "price": 85000,
+          "price6h": 50000,
+          "price12h": 65000,
+          "price24h": 85000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Super zoom: 18-200mm",
+            "Aperture: f/3.5-6.3",
+            "Autofocus",
+            "All-in-one travel lens"
+          ]
+        },
+        {
+          "id": 77,
+          "name": "Sigma 30mm F1.4 DC DN",
+          "category": "Lensa Sony",
+          "image": "https://via.placeholder.com/600x400?text=SIGMA+30mm",
+          "price": 80000,
+          "price6h": 55000,
+          "price12h": 70000,
+          "price24h": 80000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Aperture: f/1.4",
+            "Contemporary series",
+            "Autofocus",
+            "Fast standard prime"
+          ]
+        },
+        {
+          "id": 78,
+          "name": "Zeiss FE 55mm F1.8",
+          "category": "Lensa Sony",
+          "image": "https://via.placeholder.com/600x400?text=ZEISS+55mm",
+          "price": 100000,
+          "price6h": 60000,
+          "price12h": 80000,
+          "price24h": 100000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Aperture: f/1.8",
+            "Full-frame compatible",
+            "Zeiss optics",
+            "Premium prime lens"
+          ]
+        },
+        {
+          "id": 79,
+          "name": "Sony FE 28mm F2",
+          "category": "Lensa Sony",
+          "image": "https://via.placeholder.com/600x400?text=SONY+28mm",
+          "price": 85000,
+          "price6h": 60000,
+          "price12h": 70000,
+          "price24h": 85000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Aperture: f/2",
+            "Wide-angle prime",
+            "Autofocus",
+            "Compact design"
+          ]
+        },
+        {
+          "id": 80,
+          "name": "Sigma 16mm F1.4 DC DN",
+          "category": "Lensa Sony",
+          "image": "https://via.placeholder.com/600x400?text=SIGMA+16mm",
+          "price": 90000,
+          "price6h": 60000,
+          "price12h": 75000,
+          "price24h": 90000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Aperture: f/1.4",
+            "Contemporary series",
+            "Autofocus",
+            "Ultra-wide prime"
+          ]
+        },
+        {
+          "id": 81,
+          "name": "Sony FE 85mm F1.8",
+          "category": "Lensa Sony",
+          "image": "https://via.placeholder.com/600x400?text=SONY+85mm",
+          "price": 100000,
+          "price6h": 70000,
+          "price12h": 85000,
+          "price24h": 100000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Aperture: f/1.8",
+            "Telephoto prime",
+            "Autofocus",
+            "Portrait lens"
+          ]
+        },
+        {
+          "id": 82,
+          "name": "Sony E 18-105mm F4 G",
+          "category": "Lensa Sony",
+          "image": "https://via.placeholder.com/600x400?text=SONY+18-105mm",
+          "price": 100000,
+          "price6h": 70000,
+          "price12h": 85000,
+          "price24h": 100000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Zoom: 18-105mm",
+            "Constant f/4 aperture",
+            "Power zoom",
+            "G-series quality"
+          ]
+        },
+        {
+          "id": 83,
+          "name": "Sony FE 35mm F1.8",
+          "category": "Lensa Sony",
+          "image": "https://via.placeholder.com/600x400?text=SONY+35mm+F1.8+FE",
+          "price": 115000,
+          "price6h": 80000,
+          "price12h": 100000,
+          "price24h": 115000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Aperture: f/1.8",
+            "Full-frame compatible",
+            "Autofocus",
+            "Compact wide prime"
+          ]
+        },
+        {
+          "id": 84,
+          "name": "Sigma 35mm F1.4 DG HSM",
+          "category": "Lensa Sony",
+          "image": "https://via.placeholder.com/600x400?text=SIGMA+35mm+ART",
+          "price": 125000,
+          "price6h": 80000,
+          "price12h": 100000,
+          "price24h": 125000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Aperture: f/1.4",
+            "Art series",
+            "Autofocus",
+            "Premium standard prime"
+          ]
+        },
+        {
+          "id": 85,
+          "name": "Sony FE 24-70mm F4 ZA",
+          "category": "Lensa Sony",
+          "image": "https://via.placeholder.com/600x400?text=SONY+24-70mm+ZA",
+          "price": 125000,
+          "price6h": 85000,
+          "price12h": 100000,
+          "price24h": 125000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Zoom: 24-70mm",
+            "Constant f/4 aperture",
+            "Zeiss optics",
+            "Professional standard zoom"
+          ]
+        },
+        {
+          "id": 86,
+          "name": "Zeiss FE 50mm F1.4",
+          "category": "Lensa Sony",
+          "image": "https://via.placeholder.com/600x400?text=ZEISS+50mm+F1.4",
+          "price": 150000,
+          "price6h": 100000,
+          "price12h": 125000,
+          "price24h": 150000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Aperture: f/1.4",
+            "Full-frame compatible",
+            "Zeiss optics",
+            "Premium standard prime"
+          ]
+        },
+        {
+          "id": 87,
+          "name": "Sigma 85mm F1.4 DG HSM",
+          "category": "Lensa Sony",
+          "image": "https://via.placeholder.com/600x400?text=SIGMA+85mm+ART",
+          "price": 165000,
+          "price6h": 110000,
+          "price12h": 135000,
+          "price24h": 165000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Aperture: f/1.4",
+            "Art series",
+            "Autofocus",
+            "Professional portrait prime"
+          ]
+        },
+        {
+          "id": 88,
+          "name": "Canon EF-M 22mm F2",
+          "category": "Lensa Canon",
+          "image": "https://via.placeholder.com/600x400?text=CANON+EF-M+22mm",
+          "price": 75000,
+          "price6h": 50000,
+          "price12h": 60000,
+          "price24h": 75000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Aperture: f/2",
+            "Pancake design",
+            "Autofocus",
+            "Compact prime lens"
+          ]
+        },
+        {
+          "id": 89,
+          "name": "Canon EF-M 55-200mm",
+          "category": "Lensa Canon",
+          "image": "https://via.placeholder.com/600x400?text=CANON+EF-M+55-200mm",
+          "price": 85000,
+          "price6h": 55000,
+          "price12h": 65000,
+          "price24h": 85000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Zoom: 55-200mm",
+            "Aperture: f/4.5-6.3",
+            "Autofocus",
+            "Telephoto zoom"
+          ]
+        },
+        {
+          "id": 90,
+          "name": "Canon EF 100mm F2 USM",
+          "category": "Lensa Canon",
+          "image": "https://via.placeholder.com/600x400?text=CANON+100mm+F2",
+          "price": 85000,
+          "price6h": 60000,
+          "price12h": 70000,
+          "price24h": 85000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Aperture: f/2",
+            "USM autofocus",
+            "Telephoto prime",
+            "Portrait lens"
+          ]
+        },
+        {
+          "id": 90,
+          "name": "Canon EF 100mm F2 USM",
+          "category": "Lensa Canon",
+          "image": "https://via.placeholder.com/600x400?text=CANON+100mm+F2",
+          "price": 85000,
+          "price6h": 60000,
+          "price12h": 70000,
+          "price24h": 85000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Aperture: f/2",
+            "USM autofocus",
+            "Telephoto prime",
+            "Portrait lens"
+          ]
+        },
+        {
+          "id": 91,
+          "name": "Canon EF 17-35mm F2.8L",
+          "category": "Lensa Canon",
+          "image": "https://via.placeholder.com/600x400?text=CANON+17-35mm+L",
+          "price": 90000,
+          "price6h": 60000,
+          "price12h": 75000,
+          "price24h": 90000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Zoom: 17-35mm",
+            "Constant f/2.8 aperture",
+            "L-series quality",
+            "Professional wide zoom"
+          ]
+        },
+        {
+          "id": 92,
+          "name": "Canon EF-S 18-55mm",
+          "category": "Lensa Canon",
+          "image": "https://via.placeholder.com/600x400?text=CANON+EF-S+18-55mm",
+          "price": 30000,
+          "price6h": 20000,
+          "price12h": 25000,
+          "price24h": 30000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Zoom: 18-55mm",
+            "Aperture: f/3.5-5.6",
+            "Kit lens",
+            "Basic standard zoom"
+          ]
+        },
+        {
+          "id": 93,
+          "name": "Canon EF 50mm F1.8 II",
+          "category": "Lensa Canon",
+          "image": "https://via.placeholder.com/600x400?text=CANON+50mm+F1.8+II",
+          "price": 40000,
+          "price6h": 30000,
+          "price12h": 35000,
+          "price24h": 40000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Aperture: f/1.8",
+            "Nifty fifty",
+            "Lightweight prime",
+            "Great value"
+          ]
+        },
+        {
+          "id": 94,
+          "name": "Canon EF 50mm F1.8 STM",
+          "category": "Lensa Canon",
+          "image": "https://via.placeholder.com/600x400?text=CANON+50mm+F1.8+STM",
+          "price": 50000,
+          "price6h": 35000,
+          "price12h": 40000,
+          "price24h": 50000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Aperture: f/1.8",
+            "STM autofocus",
+            "Improved optics",
+            "Nifty fifty"
+          ]
+        },
+        {
+          "id": 95,
+          "name": "Canon EF-S 18-135mm",
+          "category": "Lensa Canon",
+          "image": "https://via.placeholder.com/600x400?text=CANON+EF-S+18-135mm",
+          "price": 55000,
+          "price6h": 35000,
+          "price12h": 45000,
+          "price24h": 55000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Zoom: 18-135mm",
+            "Aperture: f/3.5-5.6",
+            "Versatile range",
+            "All-in-one zoom"
+          ]
+        },
+        {
+          "id": 96,
+          "name": "7Artisans 35mm F1.2",
+          "category": "Lensa Fujifilm",
+          "image": "https://via.placeholder.com/600x400?text=7ARTISANS+35mm+FUJI",
+          "price": 55000,
+          "price6h": 35000,
+          "price12h": 45000,
+          "price24h": 55000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Aperture: f/1.2",
+            "Manual focus",
+            "X-mount",
+            "Compact prime"
+          ]
+        },
+        {
+          "id": 97,
+          "name": "Viltrox 33mm F1.4",
+          "category": "Lensa Fujifilm",
+          "image": "https://via.placeholder.com/600x400?text=VILTROX+33mm",
+          "price": 65000,
+          "price6h": 45000,
+          "price12h": 55000,
+          "price24h": 65000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Aperture: f/1.4",
+            "Autofocus",
+            "Standard prime",
+            "Metal construction"
+          ]
+        },
+        {
+          "id": 98,
+          "name": "Fujinon XC 35mm F2",
+          "category": "Lensa Fujifilm",
+          "image": "https://via.placeholder.com/600x400?text=FUJINON+XC+35mm",
+          "price": 60000,
+          "price6h": 40000,
+          "price12h": 50000,
+          "price24h": 60000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Aperture: f/2",
+            "Plastic mount",
+            "Lightweight prime",
+            "Budget option"
+          ]
+        },
+        {
+          "id": 99,
+          "name": "Fujinon 23mm F1.4 R",
+          "category": "Lensa Fujifilm",
+          "image": "https://via.placeholder.com/600x400?text=FUJINON+23mm+F1.4",
+          "price": 110000,
+          "price6h": 70000,
+          "price12h": 90000,
+          "price24h": 110000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Aperture: f/1.4",
+            "Wide-angle prime",
+            "R-series quality",
+            "Professional lens"
+          ]
+        },
+        {
+          "id": 100,
+          "name": "Fujinon XF 35mm F1.4 R",
+          "category": "Lensa Fujifilm",
+          "image": "https://via.placeholder.com/600x400?text=FUJINON+35mm+F1.4",
+          "price": 115000,
+          "price6h": 80000,
+          "price12h": 95000,
+          "price24h": 115000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Aperture: f/1.4",
+            "Standard prime",
+            "R-series quality",
+            "Classic Fuji look"
+          ]
+        },
+        {
+          "id": 101,
+          "name": "Fujinon XF 56mm F1.2 R",
+          "category": "Lensa Fujifilm",
+          "image": "https://via.placeholder.com/600x400?text=FUJINON+56mm+F1.2",
+          "price": 135000,
+          "price6h": 90000,
+          "price12h": 110000,
+          "price24h": 135000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Aperture: f/1.2",
+            "Portrait prime",
+            "R-series quality",
+            "Professional lens"
+          ]
+        },
+        {
+          "id": 102,
+          "name": "Fujinon 50-230mm OIS II",
+          "category": "Lensa Fujifilm",
+          "image": "https://via.placeholder.com/600x400?text=FUJINON+50-230mm",
+          "price": 85000,
+          "price6h": 50000,
+          "price12h": 65000,
+          "price24h": 85000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Zoom: 50-230mm",
+            "Aperture: f/4.5-6.7",
+            "Optical stabilization",
+            "Telephoto zoom"
+          ]
+        },
+        {
+          "id": 103,
+          "name": "Nikon AF-D 50mm F1.8",
+          "category": "Lensa Nikon",
+          "image": "https://via.placeholder.com/600x400?text=NIKON+50mm+AF-D",
+          "price": 55000,
+          "price6h": 35000,
+          "price12h": 40000,
+          "price24h": 55000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Aperture: f/1.8",
+            "Screw-drive AF",
+            "Nifty fifty",
+            "Classic lens"
+          ]
+        },
+        {
+          "id": 104,
+          "name": "Yongnuo 35mm F2",
+          "category": "Lensa Nikon",
+          "image": "https://via.placeholder.com/600x400?text=YONGNUO+35mm",
+          "price": 55000,
+          "price6h": 35000,
+          "price12h": 40000,
+          "price24h": 55000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "Aperture: f/2",
+            "Autofocus",
+            "Standard prime",
+            "Budget option"
+          ]
+        },
+        {
+          "id": 105,
+          "name": "Nikon AF-S 35mm F1.8 DX",
+          "category": "Lensa Nikon",
+          "image": "https://via.placeholder.com/600x400?text=NIKON+35mm+AF-S",
+          "price": 60000,
+          "price6h": 40000,
+          "price12h": 50000,
+          "price24h": 60000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Aperture: f/1.8",
+            "AF-S autofocus",
+            "Wide-angle prime",
+            "DX format"
+          ]
+        },
+        {
+          "id": 106,
+          "name": "Nikon AF-S 50mm F1.8 G",
+          "category": "Lensa Nikon",
+          "image": "https://via.placeholder.com/600x400?text=NIKON+50mm+AF-S",
+          "price": 70000,
+          "price6h": 45000,
+          "price12h": 55000,
+          "price24h": 70000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "Aperture: f/1.8",
+            "AF-S autofocus",
+            "Nifty fifty",
+            "FX format"
+          ]
+        },
+        {
+          "id": 107,
+          "name": "iPhone XR",
+          "category": "iPhone",
+          "image": "https://via.placeholder.com/600x400?text=iPhone+XR",
+          "price": 90000,
+          "price6h": 60000,
+          "price12h": 65000,
+          "price24h": 90000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "6.1-inch Liquid Retina",
+            "Single camera system",
+            "A12 Bionic chip",
+            "Face ID"
+          ]
+        },
+        {
+          "id": 108,
+          "name": "iPhone 11",
+          "category": "iPhone",
+          "image": "https://via.placeholder.com/600x400?text=iPhone+11",
+          "price": 130000,
+          "price6h": 85000,
+          "price12h": 95000,
+          "price24h": 130000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "6.1-inch Liquid Retina",
+            "Dual-camera system",
+            "A13 Bionic chip",
+            "Night mode"
+          ]
+        },
+        {
+          "id": 109,
+          "name": "iPhone 11 PRO",
+          "category": "iPhone",
+          "image": "https://via.placeholder.com/600x400?text=iPhone+11+PRO",
+          "price": 150000,
+          "price6h": 100000,
+          "price12h": 120000,
+          "price24h": 150000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "5.8-inch Super Retina XDR",
+            "Triple-camera system",
+            "A13 Bionic chip",
+            "Professional photography"
+          ]
+        },
+        {
+          "id": 110,
+          "name": "iPhone 12",
+          "category": "iPhone",
+          "image": "https://via.placeholder.com/600x400?text=iPhone+12",
+          "price": 155000,
+          "price6h": 115000,
+          "price12h": 125000,
+          "price24h": 155000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "6.1-inch Super Retina XDR",
+            "Dual-camera system",
+            "A14 Bionic chip",
+            "Ceramic Shield"
+          ]
+        },
+        {
+          "id": 111,
+          "name": "iPhone 12 PRO",
+          "category": "iPhone",
+          "image": "https://via.placeholder.com/600x400?text=iPhone+12+PRO",
+          "price": 220000,
+          "price6h": 165000,
+          "price12h": 180000,
+          "price24h": 220000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "6.1-inch Super Retina XDR",
+            "Triple-camera system",
+            "LiDAR scanner",
+            "ProRAW support"
+          ]
+        },
+        {
+          "id": 112,
+          "name": "iPhone 13",
+          "category": "iPhone",
+          "image": "https://via.placeholder.com/600x400?text=iPhone+13",
+          "price": 225000,
+          "price6h": 155000,
+          "price12h": 175000,
+          "price24h": 225000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "6.1-inch Super Retina XDR",
+            "Dual-camera system",
+            "A15 Bionic chip",
+            "Cinematic mode"
+          ]
+        },
+        {
+          "id": 113,
+          "name": "iPhone 13 PRO",
+          "category": "iPhone",
+          "image": "https://via.placeholder.com/600x400?text=iPhone+13+PRO",
+          "price": 270000,
+          "price6h": 200000,
+          "price12h": 220000,
+          "price24h": 270000,
+          "isNew": false,
+          "isPopular": true,
+          "specs": [
+            "6.1-inch Super Retina XDR",
+            "Pro camera system",
+            "ProMotion display",
+            "Macro photography"
+          ]
+        },
+        {
+          "id": 114,
+          "name": "iPhone 14 PRO",
+          "category": "iPhone",
+          "image": "https://via.placeholder.com/600x400?text=iPhone+14+PRO",
+          "price": 350000,
+          "price6h": 250000,
+          "price12h": 295000,
+          "price24h": 350000,
+          "isNew": true,
+          "isPopular": true,
+          "specs": [
+            "6.1-inch Super Retina XDR",
+            "48MP main camera",
+            "A16 Bionic chip",
+            "Dynamic Island"
+          ]
+        },
+        {
+          "id": 115,
+          "name": "iPhone 14 PRO MAX",
+          "category": "iPhone",
+          "image": "https://via.placeholder.com/600x400?text=iPhone+14+PRO+MAX",
+          "price": 375000,
+          "price6h": 275000,
+          "price12h": 320000,
+          "price24h": 375000,
+          "isNew": true,
+          "isPopular": true,
+          "specs": [
+            "6.7-inch Super Retina XDR",
+            "48MP main camera",
+            "A16 Bionic chip",
+            "Maximum Pro experience"
+          ]
+        },
+        {
+          "id": 116,
+          "name": "iPad 9",
+          "category": "iPad",
+          "image": "https://via.placeholder.com/600x400?text=iPad+9",
+          "price": 145000,
+          "price6h": 110000,
+          "price12h": 125000,
+          "price24h": 145000,
+          "isNew": false,
+          "isPopular": false,
+          "specs": [
+            "10.2-inch Retina display",
+            "A13 Bionic chip",
+            "Support for Apple Pencil",
+            "Center Stage"
+          ]
+        }
+]

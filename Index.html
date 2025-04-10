@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ilham Camera - Sewa Peralatan Fotografi & Multimedia Profesional</title>
+    <meta name="description" content="Sewa peralatan fotografi dan multimedia profesional dengan harga terjangkau untuk kebutuhan proyek Anda">
+    <meta name="keywords" content="sewa kamera, rental lensa, fotografi, multimedia, peralatan shooting, sewa drone, rental kamera">
+    <link rel="icon" href="https://via.placeholder.com/32" type="image/x-icon">
+    
+    <!-- Bootstrap CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Animation CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <!-- AOS Animation Library -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" rel="stylesheet">
+    
+    <!-- CSS Eksternal -->
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <img src="https://via.placeholder.com/80" alt="Ilham Camera Logo" width="50" height="50">
+                <span class="ms-2">Ilham Camera</span>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#">Beranda</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#catalog">Katalog</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#features">Keunggulan</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact">Kontak</a>
+                    </li>
+                </ul>
+                <a href="form-sewa.html" class="btn btn-cta ms-lg-4">Sewa Sekarang</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container hero-content text-center">
+            <h1 class="animate__animated animate__fadeInDown">Persewaan Peralatan Fotografi, Multimedia, Dan Iphone Devices</h1>
+            <p class="animate__animated animate__fadeInUp">Dapatkan akses ke smartphone premium apple,peralatan fotografi dan multimedia profesional dengan harga terjangkau untuk proyek dan kebutuhan Anda</p>
+            <div class="hero-buttons animate__animated animate__fadeInUp" style="animation-delay: 0.3s;">
+                <a href="#catalog" class="btn btn-primary"><i class="fas fa-camera me-2"></i> Lihat Katalog</a>
+                <a href="form-sewa.html" class="btn btn-light"><i class="fas fa-shopping-cart me-2"></i> Pesan Sekarang</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="catalog-section" id="catalog">
+        <div class="container">
+            <div class="section-title" data-aos="fade-up">
+                <h2>Katalog Penyewaan</h2>
+                <p>Temukan berbagai peralatan berkualitas tinggi untuk kebutuhan fotografi dan multimedia Anda</p>
+            </div>
+            
+            <div class="category-pills" data-aos="fade-up">
+                <button class="category-pill active">Semua</button>
+                <button class="category-pill">Kamera</button>
+                <button class="category-pill">Lensa</button>
+                <button class="category-pill">Drone</button>
+                <button class="category-pill">Video</button>
+                <button class="category-pill">Lighting</button>
+                <button class="category-pill">Audio</button>
+                <button class="category-pill">Aksesoris</button>
+            </div>
+    
+            <!-- Search and Filter Bar -->
+            <div class="catalog-filters" data-aos="fade-up">
+                <div class="row align-items-center mb-4">
+                    <div class="col-md-6 mb-3 mb-md-0">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Cari peralatan..." id="catalogSearch">
+                            <button class="btn btn-primary" type="button"><i class="fas fa-search"></i></button>
+                        </div>
+                    </div>
+                    <div class="col-md-6 d-flex justify-content-md-end">
+                        <select class="form-select w-auto" id="catalogSort">
+                            <option value="popular">Paling Populer</option>
+                            <option value="newest">Terbaru</option>
+                            <option value="price-low">Harga: Rendah ke Tinggi</option>
+                            <option value="price-high">Harga: Tinggi ke Rendah</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Image Grid Gallery -->
+            <div class="catalog-gallery" data-aos="fade-up">
+                <div class="row g-3" id="catalogGrid">
+                    <!-- Grid items will be generated with JavaScript -->
+                </div>
+            </div>
+            
+            <!-- Pagination -->
+            <div class="catalog-pagination mt-5 d-flex justify-content-center" data-aos="fade-up">
+                <nav aria-label="Navigasi halaman katalog">
+                    <ul class="pagination">
+                        <li class="page-item disabled">
+                            <a class="page-link" href="#" aria-label="Previous">
+                                <span aria-hidden="true">&laquo;</span>
+                            </a>
+                        </li>
+                        <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                        <li class="page-item"><a class="page-link" href="#">2</a></li>
+                        <li class="page-item"><a class="page-link" href="#">3</a></li>
+                        <li class="page-item">
+                            <a class="page-link" href="#" aria-label="Next">
+                                <span aria-hidden="true">&raquo;</span>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </section>
+
+    <!-- QuickView Modal -->
+    <div class="modal fade" id="quickViewModal" tabindex="-1" aria-labelledby="quickViewModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="quickViewModalLabel">Detail Produk</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="product-image-large">
+                                <img src="" alt="Product Image" class="img-fluid" id="modalProductImage">
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <h3 class="product-title-modal" id="modalProductTitle"></h3>
+                            <div class="product-price-modal">
+                                <h4 id="modalProductPrice"></h4>
+                                <p><strong>Status:</strong> <span class="text-success" id="modalProductStatus">Tersedia</span></p>
+                            </div>
+                            <div class="product-specs-modal">
+                                <h5>Spesifikasi:</h5>
+                                <ul id="modalProductSpecs">
+                                    <!-- Specs will be generated dynamically -->
+                                </ul>
+                            </div>
+                            <div class="d-grid gap-2">
+                                <a href="form-sewa.html" class="btn btn-primary"><i class="fas fa-shopping-cart me-2"></i> Sewa Sekarang</a>
+                                <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">Kembali ke Katalog</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Features Section -->
+    <section class="features-section" id="features">
+        <div class="container">
+            <div class="section-title" data-aos="fade-up">
+                <h2>Mengapa Memilih Kami</h2>
+                <p>Kami menyediakan layanan penyewaan peralatan fotografi dan multimedia profesional dengan berbagai keunggulan</p>
+            </div>
+            
+            <div class="row" data-aos="fade-up" data-aos-delay="100">
+                <!-- Feature 1 -->
+                <div class="col-lg-4 col-md-6">
+                    <div class="feature-card">
+                        <div class="feature-icon">
+                            <i class="fas fa-camera"></i>
+                        </div>
+                        <h3 class="feature-title">Peralatan Profesional</h3>
+                        <p class="feature-text">Semua peralatan kami adalah produk terbaru dengan kondisi prima yang selalu dirawat dan dikalibrasi secara berkala.</p>
+                    </div>
+                </div>
+                
+                <!-- Feature 2 -->
+                <div class="col-lg-4 col-md-6">
+                    <div class="feature-card">
+                        <div class="feature-icon">
+                            <i class="fas fa-wallet"></i>
+                        </div>
+                        <h3 class="feature-title">Harga Bersaing</h3>
+                        <p class="feature-text">Nikmati akses ke peralatan premium dengan biaya terjangkau dan berbagai paket menarik untuk kebutuhan berbagai proyek.</p>
+                    </div>
+                </div>
+            
+                <!-- Feature 3 -->
+                <div class="col-lg-4 col-md-6">
+                    <div class="feature-card">
+                        <div class="feature-icon">
+                            <i class="fas fa-headset"></i>
+                        </div>
+                        <h3 class="feature-title">Dukungan Teknis</h3>
+                        <p class="feature-text">Tim kami siap membantu dan memberikan konsultasi teknis untuk memastikan Anda mendapatkan hasil terbaik.</p>
+                    </div>
+                </div>
+
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-section">
+        <div class="container cta-content" data-aos="fade-up">
+            <h2>Siap Mewujudkan Proyek Kreatif Anda?</h2>
+            <p>Dapatkan peralatan terbaik untuk kebutuhan fotografi dan video Anda. Hubungi kami sekarang untuk penawaran khusus dan konsultasi gratis.</p>
+            <div class="cta-buttons">
+                <a href="form-sewa.html" class="btn btn-cta-primary"><i class="fas fa-shopping-cart me-2"></i> Sewa Sekarang</a>
+                <a href="#contact" class="btn btn-cta-secondary"><i class="fas fa-phone-alt me-2"></i> Hubungi Kami</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer" id="contact">
+        <div class="container">
+            <div class="row">
+                <!-- Footer About -->
+                <div class="col-md-4">
+                    <div class="footer-brand">
+                        <div class="footer-logo">
+                            <img src="https://via.placeholder.com/80" alt="Ilham Camera Logo" width="80" height="80">
+                        </div>
+                        <p class="footer-about">
+                            Ilham Camera menyediakan jasa sewa peralatan fotografi dan multimedia profesional dengan harga terjangkau untuk berbagai kebutuhan.
+                        </p>
+                        <div class="footer-social">
+                            <a href="#" class="footer-social-icon fb-icon"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#" class="footer-social-icon ig-icon"><i class="fab fa-instagram"></i></a>
+                            <a href="#" class="footer-social-icon yt-icon"><i class="fab fa-youtube"></i></a>
+                            <a href="#" class="footer-social-icon tt-icon"><i class="fab fa-tiktok"></i></a>
+                            <a href="#" class="footer-social-icon wa-icon"><i class="fab fa-whatsapp"></i></a>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Footer Hours -->
+                <div class="col-md-4">
+                    <h5>Jam Operasional</h5>
+                    <ul class="hours-list">
+                        <li>
+                            <span>Senin - Jumat</span>
+                            <span>08:00 - 20:00</span>
+                        </li>
+                        <li>
+                            <span>Sabtu</span>
+                            <span>09:00 - 18:00</span>
+                        </li>
+                        <li>
+                            <span>Minggu</span>
+                            <span>10:00 - 16:00</span>
+                        </li>
+                    </ul>
+                    <div class="hours-info">
+                        <i class="fas fa-info-circle"></i>
+                        <span>Pengambilan & pengembalian di luar jam operasional tersedia dengan perjanjian</span>
+                    </div>
+                    
+                    <!-- Newsletter -->
+                    <h5 class="mt-4">Berlangganan</h5>
+                    <form class="newsletter-form">
+                        <div class="input-group">
+                            <input type="email" placeholder="Email Anda" required>
+                            <button type="submit">Langganan <i class="fas fa-paper-plane ms-1"></i></button>
+                        </div>
+                        <p class="newsletter-note">Dapatkan info promo & update terbaru</p>
+                    </form>
+                </div>
+                
+                <!-- Footer Contact -->
+                <div class="col-md-4">
+                    <h5>Hubungi Kami</h5>
+                    <div class="contact-method">
+                        <div class="contact-icon">
+                            <i class="fas fa-map-marker-alt"></i>
+                        </div>
+                        <div>
+                            <div class="contact-label">Alamat</div>
+                            <div>Jl. Mangga Dua Raya No. 123, Jakarta Pusat 10730</div>
+                        </div>
+                    </div>
+                    <div class="contact-method">
+                        <div class="contact-icon">
+                            <i class="fas fa-phone-alt"></i>
+                        </div>
+                        <div>
+                            <div class="contact-label">Telepon</div>
+                            <div>(021) 2345-6789</div>
+                        </div>
+                    </div>
+                    <div class="contact-method">
+                        <div class="contact-icon">
+                            <i class="fas fa-mobile-alt"></i>
+                        </div>
+                        <div>
+                            <div class="contact-label">WhatsApp</div>
+                            <div>+62 812-3456-7890</div>
+                        </div>
+                    </div>
+                    <div class="contact-method">
+                        <div class="contact-icon">
+                            <i class="fas fa-envelope"></i>
+                        </div>
+                        <div>
+                            <div class="contact-label">Email</div>
+                            <div>info@ilhamcamera.com</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="copyright">
+                <p>&copy; 2025 Ilham Camera. Semua hak dilindungi.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+    <!-- AOS Animation Library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+    
+    <!-- JavaScript Eksternal -->
+    <script src="script.js"></script>
+</body>
+</html>
